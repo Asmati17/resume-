@@ -1,0 +1,78 @@
+body{
+    background-image: url(b8.jpg);
+    background-size: cover;
+}
+a{
+    color:#75993e;
+    font-size: 20px;
+    font-family: fantasy;
+    float: right;
+    margin: 17px ;
+}
+ h1{
+     color: #648d23;
+     font-size: 50px;
+     font-family: Georgia;
+     margin: 1%;
+ }
+ ul{
+     margin: -5.5%  1%;
+ }
+ nav{
+     background-color: rgb(122, 146, 200);
+ }
+#bg-img{
+    background: url("11.jpg");
+    background-size:300px   305px;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    margin: 12% 10%;
+    
+   
+}
+.info{
+    margin:-50% 35%;
+    background-color: rgb(122,146,200);
+    width: 540px;
+    height: 450px;
+}
+h2{
+    margin: 3% 2%;
+    font-size: 35px;
+    font-style: inherit;
+}
+h3{
+    margin: 3% 2%;
+    font-size: 25px;
+}
+h4{
+    margin: 3% 2%;
+    font-size: 25px;
+}
+h5{
+    margin: 3% 2%;
+    font-size: 25px;
+}
+p{
+    margin: 7% 2%;
+    font-size: 20px;
+}
+.fb{
+  position: relative;
+  margin: 15% 95%;
+}
+.tw{
+    position: relative;
+    margin: 25% 95%;
+}
+.in{
+ position: relative;
+  margin: 35% 95%;
+}
+img{
+  width: 50px;
+  height: 50px; 
+  cursor: pointer;
+  margin:40% 95%;
+ 
+}

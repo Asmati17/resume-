@@ -1,0 +1,55 @@
+*{
+   margin: 0;
+   padding: 0; 
+}
+.header{
+    height:100vh;
+    
+}
+.video-background{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+}
+nav{
+    margin: -40% 0%;
+    
+}
+a{ 
+    color:rgb(238, 255, 6);
+    font-size: 20px;
+    font-family: fantasy;
+    float: right;
+    margin: 27px;
+   cursor: pointer;
+   
+ }
+ h1{
+     color: rgb(238, 255, 6);
+     font-size: 50px;
+     margin-top: 40%;
+     margin-left: 5%;
+     
+ }
+ h2{
+     color: rgb(238, 255, 6);
+     font-size: 40px;
+     margin-top: -43%;
+     margin-left: 1%;
+ }
+ h3{
+    color: rgb(238, 255, 6);
+    font-size: 20px;
+    margin-top: 30%;
+    margin-left: 5%;
+ }
+ h4{
+    color: rgb(238, 255, 6);
+    font-size: 30px;
+    margin-left: 5%;
+ }
